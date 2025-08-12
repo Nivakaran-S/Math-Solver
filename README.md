@@ -1,6 +1,6 @@
 # 🧮 Text to Math Problem Solver & Data Search Assistant
 
-An intelligent AI-powered assistant that interprets natural language math and reasoning problems, performs complex calculations, and fetches relevant factual information from Wikipedia — all in one conversational interface.
+An intelligent AI-powered assistant that interprets natural language math and reasoning problems, performs complex calculations, and fetches relevant factual information from Wikipedia, all in one conversational interface.
 
 Built with **Groq’s Gemma2-9b-It model** and **LangChain**, this project demonstrates my expertise in:
 
